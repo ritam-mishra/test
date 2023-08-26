@@ -1,6 +1,0 @@
-{{#user}}
-Name: Ritam
-Skills: AWS, DevOps, Web Dev, K8s, Docker(beginner)
-Email: ritammishra@gmail.com
-{{/user}}
-
